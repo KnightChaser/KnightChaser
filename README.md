@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi,... I'm Just Student Developer 👋
+
+- 🔭 Major : learning in Cyber Security
+- 🌱 : Cyber Security Technologies, Python(by myself)
+- 📫 : Email(agerio100@naver.com)
+- 💬 : I usually don't learning something with formed sequence. Well, Googling first :)
 
 <!--
 **x3onkait/x3onkait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
