@@ -6,6 +6,8 @@
 - 💬 : I usually don't learning something with formed sequence. Well, Googling first :)
 - ⚡ : Always power and darkness will be overflooeded!! Hahaha
 
+[![x3onkait's GitHub stats](https://github-readme-stats.vercel.app/api?username=x3onkait)](https://github.com/x3onkait/github-readme-stats)
+
 <!--
 **x3onkait/x3onkait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
