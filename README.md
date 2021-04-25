@@ -1,6 +1,5 @@
 ### Hi there 👋, @x3onkait
 #### ✨EVERYTHING IS NEW✨
-![✨EVERYTHING IS NEW✨](https://i.imgur.com/w1pAySc.jpg)
 
 - 🤞 Student
 - ❌ Not developer, **Just Hobbyist**
