@@ -6,12 +6,21 @@
 - ⚡ Always **power and darkness** overflood in my mind and soul
 - ✅ Live in the Republic of **Korea**
 
-Skills: Python(Little bit), Sleeping, Eating, Chitchatting
+<h3 align="center">🛠 Languages and Tools 🛠</h3>
+  <p align="center"> 
+      <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.linux.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.python.org" target="_blank"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+      </a> 
+  </p>
 
-- ⚡ Fun fact: I usually don't learning something with formed sequence. Well, Googling first at every moment :) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=x3onkait&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x3onkait)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=x3onkait&show_icons=true&hide=contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x3onkait&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/x3onkait)  
