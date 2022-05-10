@@ -3,7 +3,7 @@
 - 🤞 학생
 - ❌ 개발자는 아니지만, 심심하거나 필요할 때 작고 재밌는 프로그램이나 서비스를 만듭니다.
 - 🏠 **대한민국** 의 한 도시에서 조용하게 살고 있어요.
-- 📚 Cisco Networking, Cybersecurity, Hobby programming...
+- 📚 Cisco Networking, Cybersecurity, Hobby programming, Photoshop design...
 
 <br>
 
