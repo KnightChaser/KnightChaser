@@ -1,10 +1,9 @@
-### 안녕하세요👋, @x3onkait 입니다.
-#### ✨ (심지어 어제 한 것이더라도) 모든 것이 새롭습니다! ✨
+### 안녕하세요👋, `@x3onkait` 입니다.
 
 - 🤞 학생
 - ❌ 개발자는 아니지만, 심심하거나 필요할 때 작고 재밌는 프로그램이나 서비스를 만듭니다.
-- 🏠 **대한민국** 의 한 도시에서 살고 있어요.
-- 📚 Cisco Networking, Cybersecurity, Hobby programming
+- 🏠 **대한민국** 의 한 도시에서 조용하게 살고 있어요.
+- 📚 Cisco Networking, Cybersecurity, Hobby programming...
 
 <br>
 
