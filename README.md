@@ -23,6 +23,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=x3onkait&show_icons=true&hide=contribs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x3onkait&layout=compact"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x3onkait&layout=compact"><br><br><br>
   <img src="https://gpvc.arturio.dev/x3onkait">
 </p>
