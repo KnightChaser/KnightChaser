@@ -1,9 +1,10 @@
-### 안녕하세요👋, `@x3onkait` 입니다.
+### Hello👋, I am `@x3onkait`
 
-- 🤞 학생
-- ❌ 개발자는 아니지만, 심심하거나 필요할 때 작고 재밌는 프로그램이나 서비스를 만듭니다.
-- 🏠 **대한민국** 의 한 도시에서 조용하게 살고 있어요.
-- 📚 Cisco Networking, Cybersecurity, Hobby programming, Photoshop design...
+- 🤞 I'm a student.
+- ❌ I'm not a developer, but I like to write codes for hobby or personal purpose.
+- 🔎 I like to search to solve my technical problems.
+- 🏠 I'm living silently in a city in **South Korea**.
+- 📚 Cisco Networking, Cybersecurity, Programming...
 
 <br>
 
@@ -11,8 +12,9 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+      <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white">
+      <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
     <br>
   </p>
 
@@ -21,7 +23,6 @@
 * * *
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x3onkait&show_icons=true&hide=contribs">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x3onkait&layout=compact"><br><br><br>
   <img src="https://gpvc.arturio.dev/x3onkait">
 </p>
