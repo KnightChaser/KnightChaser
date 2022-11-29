@@ -21,7 +21,8 @@
 <br>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/x3onkait">
+  <!-- <img src="https://gpvc.arturio.dev/x3onkait"> -->
+  <img src="https://komarev.com/ghpvc/?username=x3onkait&style=for-the-badge&label=People%20who%20went%20to%20my%20profile">
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=100&section=footer)
