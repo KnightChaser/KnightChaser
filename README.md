@@ -23,6 +23,5 @@
 * * *
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x3onkait&layout=compact"><br><br><br>
   <img src="https://gpvc.arturio.dev/x3onkait">
 </p>
