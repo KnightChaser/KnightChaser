@@ -1,10 +1,6 @@
 ### Hello👋, I am `@x3onkait`
 
-- 🤞 I'm a student.
-- ❌ I'm not a developer, but I like to write codes for hobby or personal purpose.
-- 🔎 I like to search to solve my technical problems.
-- 🏠 I'm living silently in a city in **South Korea**.
-- 📚 Cisco Networking, Cybersecurity, Programming...
+- Professional Spaghetti Code Thrower
 
 <br>
 
