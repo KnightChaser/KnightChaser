@@ -1,6 +1,8 @@
 ### Hello👋, I am `@x3onkait`
 
 - Professional Spaghetti Code Thrower
+- No context impulsive code writer
+- I don't code usually because I ain't a clean pro
 
 <br>
 
