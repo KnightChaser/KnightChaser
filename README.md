@@ -2,7 +2,7 @@
 
 - Professional Spaghetti Code Thrower
 - No context impulsive code writer
-- I don't code usually because I ain't a clean pro
+- Tbh, I don't code usually because I ain't a clean pro
 
 <br>
 <p align="center"> 
