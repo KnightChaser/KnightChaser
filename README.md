@@ -17,6 +17,10 @@
 <br>
 
 <p align="center">
+    <img src="https://osu-sig.vercel.app/card?user=lksha3dow&mode=mania&lang=en&animation=true">
+</p>
+
+<p align="center">
   <!-- <img src="https://gpvc.arturio.dev/x3onkait"> -->
   <img src="https://komarev.com/ghpvc/?username=x3onkait&style=for-the-badge&label=PAGE%20HIT">
 </p>
