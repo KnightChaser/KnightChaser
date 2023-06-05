@@ -1,8 +1,6 @@
 ### Hello👋, I am `@KnightChaser`
 
 - Professional Spaghetti Code Thrower
-- No context impulsive code writer
-- Tbh, I don't code usually because I ain't a clean pro
 
 <br>
 <p align="center"> 
@@ -14,10 +12,16 @@
     <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white">
   <br>
 </p>
-<br>
 
+<br>
 <p align="center">
-    <img src="https://osu-sig.vercel.app/card?user=lksha3dow&mode=mania&lang=en&animation=true">
+    <img src="https://github.com/KnightChaser/github-stats-copy/blob/master/generated/languages.svg">
+    <img src="https://github.com/KnightChaser/github-stats-copy/blob/master/generated/overview.svg">
+</p>
+
+<!-- osu -->
+<p align="center">
+    <img src="https://osu-sig.vercel.app/card?user=lksha3dow&mode=mania&lang=en&animation=true&hue=200&mini=true">
 </p>
 
 <p align="center">
