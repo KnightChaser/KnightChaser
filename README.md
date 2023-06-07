@@ -1,4 +1,4 @@
-### Hello👋, I am `@KnightChaser`
+### W3LC0ME 2 MY G!THu|3 PR0F1L3
 
 - Professional Spaghetti Code Thrower
 
@@ -28,3 +28,5 @@
   <!-- <img src="https://gpvc.arturio.dev/x3onkait"> -->
   <img src="https://komarev.com/ghpvc/?username=x3onkait&style=for-the-badge&label=PAGE%20HIT">
 </p>
+
+> Note: In my languges statistics, **Jupyter Notebook(`*.ipynb`)** files aren't included to that due to the heavy size of graphics and pictures that may induce unexpected distort of proportions (which isn't fair comparison).
