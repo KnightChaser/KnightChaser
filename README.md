@@ -21,7 +21,7 @@
 
 <!-- osu -->
 <p align="center">
-    <img src="https://osu-sig.vercel.app/card?user=lksha3dow&mode=mania&lang=en&animation=true&hue=200&mini=true">
+    <img src="https://osu-sig.vercel.app/card?user=KnightChaser&mode=mania&lang=en&animation=true&hue=200&mini=true">
 </p>
 
 <p align="center">
