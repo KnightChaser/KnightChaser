@@ -20,11 +20,6 @@
     <img src="https://github.com/KnightChaser/github-stats-copy/blob/master/generated/overview.svg">
 </p>
 
-<!-- osu -->
-<p align="center">
-    <img src="https://osu-sig.vercel.app/card?user=KnightChaser&mode=mania&lang=en&animation=true&hue=200&mini=true">
-</p>
-
 <p align="center">
   <!-- <img src="https://gpvc.arturio.dev/x3onkait"> -->
   <img src="https://komarev.com/ghpvc/?username=x3onkait&style=for-the-badge&label=PAGE%20HIT">
