@@ -25,4 +25,4 @@
   <img src="https://komarev.com/ghpvc/?username=x3onkait&style=for-the-badge&label=PAGE%20HIT">
 </p>
 
-> Note: In my languges statistics, **Jupyter Notebook(`*.ipynb`)** files aren't included to that due to the heavy size of graphics and pictures that may induce unexpected distort of proportions (which isn't fair comparison).
+> Note: In my language statistics, **Jupyter Notebook(`*.ipynb`)** files aren't included to that due to the heavy size of graphics and pictures that may induce unexpected distortion of proportions (which isn't fair comparison). / Non-programming intended repositories have been excluded too.
