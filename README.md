@@ -1,6 +1,6 @@
 ### `@KnightChaser`
 
-- Professional Spaghetti Code Thrower
+- Professional Spaghetti Cook
 - I am not a programmer, nor majoring in programming-related studies. I just cook some spaghetti well.
 
 <br>
