@@ -1,7 +1,7 @@
 ### `@KnightChaser`
 
 - Professional Spaghetti Cook
-- I am not a programmer, nor majoring in programming-related studies. I just cook some spaghetti well.
+- I am not a programmer, nor majoring in programming-related studies.
 
 <br>
 <p align="center"> 
