@@ -1,7 +1,8 @@
 ### `@KnightChaser`
 
 - Professional Spaghetti Cook
-- I am not a programmer, nor majoring in programming-related studies.
+- I like to cook makeshift codes with thundering inspirations.
+- I am not a programmer or majoring in programming-related studies.
 
 <br>
 <p align="center"> 
@@ -25,4 +26,4 @@
   <img src="https://komarev.com/ghpvc/?username=x3onkait&style=for-the-badge&label=PAGE%20HIT">
 </p>
 
-> Note: In my language statistics, **Jupyter Notebook(`*.ipynb`)** files aren't included to that due to the heavy size of graphics and pictures that may induce unexpected distortion of proportions (which isn't fair comparison). / Non-programming intended repositories have been excluded too.
+> Note: In my language statistics, unused repositories have been excluded.
