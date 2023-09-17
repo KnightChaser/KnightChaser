@@ -17,7 +17,6 @@
 
 <br>
 <p align="center">
-    <img src="https://github.com/KnightChaser/github-stats-copy/blob/master/generated/languages.svg">
     <img src="https://github.com/KnightChaser/github-stats-copy/blob/master/generated/overview.svg">
 </p>
 
@@ -25,5 +24,3 @@
   <!-- <img src="https://gpvc.arturio.dev/x3onkait"> -->
   <img src="https://komarev.com/ghpvc/?username=x3onkait&style=for-the-badge&label=PAGE%20HIT">
 </p>
-
-> Note: In my language statistics, unused repositories have been excluded.
