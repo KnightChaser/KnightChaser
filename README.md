@@ -1,8 +1,9 @@
 ### `@KnightChaser`
 
-- Professional Spaghetti Cook
+- A legendary code spaghetti cook
 - I like to cook makeshift codes with thundering inspirations.
 - I am not a programmer or majoring in programming-related studies.
+- Do you see the overall language statistics of my GitHub repositories? That's how much I like spaghetti.
 
 <br>
 <p align="center"> 
@@ -14,6 +15,7 @@
 <br>
 <p align="center">
     <img src="https://github.com/KnightChaser/github-stats-copy/blob/master/generated/overview.svg">
+    <img src="https://github.com/KnightChaser/github-stats-copy/blob/master/generated/languages.svg">
 </p>
 
 <p align="center">
