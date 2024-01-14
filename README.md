@@ -1,6 +1,6 @@
 ### `@KnightChaser`
 
-- A top-tier spaghetti cook
+- A top-tier spaghetti cook. No one can challenge me!
 
 <br>
 <p align="center"> 
