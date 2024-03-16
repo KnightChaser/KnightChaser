@@ -1,6 +1,6 @@
 ### `@KnightChaser`
 
-- A top-tier spaghetti cook. No one can challenge me!
+- A real college top-tier code spaghetti cook. No one would be my match, hehehe! OwO
 
 <br>
 <p align="center"> 
