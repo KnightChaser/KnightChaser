@@ -1,16 +1,15 @@
 ### `@KnightChaser`
 
-- A real college top-tier code spaghetti cook. No one would be my match, hehehe! OwO
+- A real college student who does computer things 🖥️✨
 
 <br>
 <p align="center"> 
     <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo;logo=Assembly&amp;logoColor=white">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Go-01ADD8?style=for-the-badge&logo=Go&logoColor=white">
-    <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white">
+    <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
   <br>
 </p>
 
