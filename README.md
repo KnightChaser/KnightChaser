@@ -1,6 +1,12 @@
 ### `@KnightChaser`
 
-- A real college student who does computer things 🖥️✨
+- Who am I? → I do computers.
+- Computer science, Fundamentals and theories, Purpose-driven programming, Cybersecurity, Cyber threat intelligence
+- **Affiliation**
+    * **Seongnam Techno High School**, cybersecurity department. (graduated)
+    * **Gachon University**, cybersecurity major. (current)
+    * **ENKI WhiteHat Co., Ltd.**, researcher in MDR(Managed Detection & Response) team. (current)
+    * **Codeshell.kr**, technical writer at fundamental cryptography. (projected)
 
 <br>
 <p align="center"> 
