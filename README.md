@@ -1,6 +1,4 @@
-# `@KnightChaser`
-
-### I do computers.
+> Modern computers are not big deals frankly. They are just extremely abstract calculators with some features. I also own some computers, and I do computer things. Sometimes I study how they work, sometimes I exercise how to talk with them.
 
 <br>
 <p align="center"> 
