@@ -1,4 +1,4 @@
-> Modern computers are not big deals frankly. They are just extremely abstract calculators with some features. I also own some computers, and I do computer things. Sometimes I study how they work, sometimes I exercise how to talk with them.
+> Modern computers are still just computers. It's really just logic gates playing an endless game of yes and no. An extremely abstract calculator processing bits and bauds. All the complexity boils down to strings of ones and zeros, dancing in sync.
 
 <br>
 <p align="center"> 
