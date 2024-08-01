@@ -1,4 +1,4 @@
-> Modern computers are still just computers. It's really just logic gates playing an endless game of yes and no. An extremely abstract calculator processing bits and bauds. All the complexity boils down to strings of ones and zeros, dancing in sync.
+> Look at that endless amount of computers and digital bitstreams. Aren't they beautiful and fascinating?
 
 <br>
 <p align="center"> 
