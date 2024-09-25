@@ -1,4 +1,4 @@
-> Look at that endless amount of computers and digital bitstreams. Aren't they beautiful and fascinating?
+> Someone in myself said: ✨ I do c-cute computer thingies! 🖥💻~ W-wow, look at all these beautiful, magical digi-bits and computery things! 🌸 Aren’t they just the most purr-fect, fascinating lil' byte streams ever? 💖 ✨OwO✨
 
 <br>
 <p align="center"> 
