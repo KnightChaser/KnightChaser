@@ -1,4 +1,4 @@
-> Someone in myself said: ✨ I do c-cute computer thingies! 🖥💻~ W-wow, look at all these beautiful, magical digi-bits and computery things! 🌸 Aren’t they just the most purr-fect, fascinating lil' byte streams ever? 💖 ✨OwO✨
+> ✨I do c-cute computer thingies! 🖥💻~ W-wow, look at all these beautiful, magical digi-bits and computery things! 🌸 Aren’t they just the most purr-fect, fascinating lil' byte streams ever? 💖 ✨OwO✨
 
 <br>
 <p align="center"> 
