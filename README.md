@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo;logo=Assembly&amp;logoColor=white">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Go-01ADD8?style=for-the-badge&logo=Go&logoColor=white">
   <br>
 </p>
 
