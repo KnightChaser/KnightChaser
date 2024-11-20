@@ -1,5 +1,5 @@
 ### @KnightChaser
-> I value a habit and a habit and an inertia more than a passion, as a person who isn't so gifted like others.
+> I probably do computer things.
 
 **Self introduction**: Currently, I've been studying computer engineering and cybersecurity in a university, and working in an information security corporation by getting an offer since December 2023. I don't have a specific role, but studying and researching various topics, from verifying some technical ideas to writing small programs. I also don't have a specific goal, but I'm trying to study computer itself, from bit and bytes to the cloud. Furthermore, I know, it's not easy-so I think it'd be taken more than a decade to grasp the computer world. I dived into the realm of computers since 2020, and exploring inside there indefinitely. One probably notable thing, I don't have neither passion nor eagerness like any other people in this field. But I tend to maintain my life with a habit and an inertia, such like an automatically driving vehicle, while valuing the consistency and slow but steady growth.
 
