@@ -5,9 +5,11 @@
 
 <summary>Self Introduction</summary>
 
- Currently, I've been studying computer engineering and cybersecurity in a university, and working in an information security corporation by getting an offer since December 2023. I don't have a specific role, but studying and researching various topics, from verifying some technical ideas to writing small programs. 
- I also don't have a specific goal, but I'm trying to study computer itself, from bit and bytes to the cloud. I know, it's not easy-so I think it'd be taken more than a decade to grasp the computer world. I dived into the realm of computers since 2020, and exploring inside there indefinitely. 
- I don't have neither passion nor eagerness like any other people in this field. But I tend to maintain my life with a habit and an inertia, such like an automatically driving vehicle, while valuing the consistency and slow but steady growth.
+ I'm currently studying Computer Engineering and Cybersecurity at university and started working at an information security company in December 2023. While I don't have a specific role there, I spend my time exploring various topics—from testing technical ideas to writing small programs.
+
+ My journey into the computer world began in 2020, and since then, I've been diving deeper into everything from the basics like bits and bytes to more complex areas like cloud computing. I don't have a particular goal in mind; instead, I'm passionate about understanding computers in all their facets.
+
+ I might not have the intense passion or eagerness that some others in the field do, but I value consistency and steady growth. I approach my work and studies with habitual routines and a steady pace, much like an autopilot vehicle, aiming for continuous improvement over time.
 </details>
 
 <br>
