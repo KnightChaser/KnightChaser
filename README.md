@@ -17,6 +17,8 @@
     <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo;logo=Assembly&amp;logoColor=white">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <br>
 </p>
 
