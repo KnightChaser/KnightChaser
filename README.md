@@ -29,8 +29,14 @@
 </p>
 
 <p align="center">
+  <!-- ☆NEW☆ cute visit counter -->
+  <img src="https://count.getloli.com/@githubKnightChaser?name=githubKnightChaser&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+</p>
+
+<p align="center">
   <!-- <img src="https://gpvc.arturio.dev/x3onkait"> -->
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKnightChaser&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=page%20hits&edge_flat=false"/></a>
+  <!-- Why the counter widget below stopped working?!?! (12.5K views total) -->
+  <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKnightChaser&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=page%20hits&edge_flat=false"/></a> -->
   <img src="https://wakatime.com/badge/user/eb7e471e-bc4c-4458-9094-7ca50b86d23f.svg">
 </p>
 
