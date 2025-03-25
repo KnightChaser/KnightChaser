@@ -1,17 +1,3 @@
-### @KnightChaser
-> I probably do computer things.
-
-<details>
-
-<summary>Self Introduction</summary>
-
- I'm currently studying Computer Engineering and Cybersecurity at university and started working at an information security company in December 2023. While I don't have a specific role there, I spend my time exploring various topics—from testing technical ideas to writing small programs.
-
- My journey into the computer world began in 2020, and since then, I've been diving deeper into everything from the basics like bits and bytes to more complex areas like cloud computing. I don't have a particular goal in mind; instead, I'm passionate about understanding computers in all their facets.
-
- I might not have the intense passion or eagerness that some others in the field do, but I value consistency and steady growth. I approach my work and studies with habitual routines and a steady pace, much like an autopilot vehicle, aiming for continuous improvement over time.
-</details>
-
 <br>
 <p align="center"> 
     <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo;logo=Assembly&amp;logoColor=white">
