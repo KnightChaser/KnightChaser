@@ -30,3 +30,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fknightchaser&logo=leetcode&logoColor=yellow">
 </p>
+
+Side note: Check out [my music playlist](https://knightchaser.github.io/music/) if you're bored! Every source code and data that make up the website are completely available in [my public repository](https://github.com/KnightChaser/music)
