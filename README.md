@@ -32,3 +32,10 @@
 </p> -->
 
 Side note: Check out [my music playlist](https://knightchaser.github.io/music/) if you're bored! Every source code and data that make up the website are completely available in [my public repository](https://github.com/KnightChaser/music)
+
+### Wanna contact me?
+Either use one of the following. These may cover 99.99% of your needs.
+- **Telegram (preferred): https://t.me/Lyr4s3L**
+- Discord ID: `knightchaser`
+- E-mail: a23375667@gmail.com
+- Other purposes: Links on my GitHub profile (*yeah, "link in bio"*)
