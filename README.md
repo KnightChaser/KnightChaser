@@ -33,9 +33,12 @@
 
 Side note: Check out [my music playlist](https://knightchaser.github.io/music/) if you're bored! Every source code and data that make up the website are completely available in [my public repository](https://github.com/KnightChaser/music)
 
-### Wanna contact me?
-Either use one of the following. These may cover 99.99% of your needs.
-- **Telegram (preferred): https://t.me/Lyr4s3L**
-- Discord ID: `knightchaser`
-- E-mail: a23375667@gmail.com
-- Other purposes: Links on my GitHub profile (*yeah, "link in bio"*)
+<details>
+  <summary>Wanna contact me?</summary>
+  
+  > Use one of the following. These will satisfy 99.99% of contact needs, eh?
+  1. **Telegram**: https://t.me/Lyr4s3L
+  2. **Discord ID**: `knightchaser`
+  3. **Electronic mail**: a23375667@gmail.com
+  4. **Other purposes**: Links on my GitHub profile (*yeah, "link in bio"*)
+</details>
