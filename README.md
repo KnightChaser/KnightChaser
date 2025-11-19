@@ -34,6 +34,15 @@
 Side note: Check out [my music playlist](https://knightchaser.github.io/music/) if you're bored! Every source code and data that make up the website are completely available in [my public repository](https://github.com/KnightChaser/music)
 
 <details>
+  <summary>My programming statistics (feat. Wakatime)</summary>
+
+  ![Wakatime language stats](https://wakatime.com/share/@KnightChaser/7a88016c-bf0e-447b-82e4-a2c1efd92eeb.svg)
+  ![Wakatime editor status](https://wakatime.com/share/@KnightChaser/8c169641-4a9c-4fc3-aae6-4444686a1c23.svg)
+  ![Wakatime OS usage status](https://wakatime.com/share/@KnightChaser/15c6f27d-21e6-49cf-8673-51a689327127.svg)
+</details>
+
+
+<details>
   <summary>Wanna contact me?</summary>
   
   > Use one of the following. These will satisfy 99.99% of contact needs, eh?
