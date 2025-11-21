@@ -36,7 +36,7 @@ Side note: Check out [my music playlist](https://knightchaser.github.io/music/) 
 <details>
   <summary>My programming statistics (feat. Wakatime)</summary>
 
-  ![Wakatime language stats](https://wakatime.com/share/@KnightChaser/7a88016c-bf0e-447b-82e4-a2c1efd92eeb.svg)
+  ![Wakatime language stats](https://wakatime.com/share/@KnightChaser/9072dea3-e63d-4e05-9158-64bd2fbd97ad.svg)
   ![Wakatime editor status](https://wakatime.com/share/@KnightChaser/8c169641-4a9c-4fc3-aae6-4444686a1c23.svg)
   ![Wakatime OS usage status](https://wakatime.com/share/@KnightChaser/15c6f27d-21e6-49cf-8673-51a689327127.svg)
 </details>
